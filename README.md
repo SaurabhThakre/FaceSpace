@@ -3,8 +3,8 @@
 ## How does it works:
 
 1. After installation of the application the first UI screen provides 2 buttons.  
-   a.	Start :- This button starts the process of image capture and face detection.  
-   b.	Enable Permission :- This button asks for the system permissions and the start button will not work until all the permissions are granted.
+   *a.* Start :- This button starts the process of image capture and face detection.  
+   *b.* Enable Permission :- This button asks for the system permissions and the start button will not work until all the permissions are granted.
    
 2. On pressing the “Enable Permissions” button  another window will show up  which will ask for the necessary permissions (these are need to be done only once).
 
